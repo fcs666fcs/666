@@ -1,4 +1,4 @@
-﻿* {
+* {
     box-sizing: border-box;
 }
 html {
@@ -83,7 +83,7 @@ strong{
     width: 100%;
 }
 #site-title {
-    color: #eee;
+    color: #0077ff;
     text-align: center;
     text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, .15);
     line-height: 1.5;
